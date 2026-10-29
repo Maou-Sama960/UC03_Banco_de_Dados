@@ -1,0 +1,5 @@
+Quantos problemas há de cada tipo (duplicidade, inconsistência e valor ausente)?
+Quantas linhas de dados tem o arquivo bruto e quantas tem a aba tratado?
+Quantas toneladas seriam contadas em dobro se as repetições não fossem removidas?
+Qual é a soma da coluna peso_t da aba tratado, sem as linhas cujo obs fala de peso? Quantos caminhões entram nessa soma?
+Existe alguma linha que parece um problema e não é? Cite as linhas e explique em uma frase (pense em duplicidade e em valor zero).
